@@ -1,0 +1,56 @@
+.back1 ,#footer{
+    background-color: #001C30;
+}
+span{
+    color:#001C30 ;
+}
+.text3{
+    color: #64ccc5;
+}
+.size{
+    font-size:xx-large;
+}
+.verylight{
+    background-color: #DAFFFB;
+}
+.color1{
+color: #001C30;
+}
+
+
+.font1{
+    font-size:xx-large ;
+    color: #001C30;
+}
+.font2{
+    font-size: x-large;
+    color:black;
+}
+li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.font3{
+    background-color:#DAFFFB;
+}
+.flex1{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-left: 100px;
+}
+.mar{
+    font-size: 50px;
+    color: #001C30;
+    margin-top: 130px;
+}
+.flex2{
+    margin-left: 440px;
+    
+}
+.colour{
+    color: white;
+}
+#projects{
+    margin-bottom: 100px;
+}
